@@ -1,0 +1,10 @@
+    'extending',
+    'includes',
+    'includes/sqlite3',
+    'install',
+    'macmodules',
+    'modules',
+    'reference',
+    'tutorial',
+    'whatsnew',
+]
